@@ -1,0 +1,12 @@
+# ============================================================
+# security.txt — Vulnerability Disclosure Policy (RFC 9116)
+# ============================================================
+
+# ── Mandatory Fields ────────────────────────────────────────
+Contact: mailto:info@seosiri.com
+Contact: https://www.seosiri.com/p/contact-us.html
+Expires: 2027-12-31T23:59:59.000Z
+
+# ── SEOSiri AI & Security Association ────────────────────────
+# For advanced AI crawler controls and entity schemas, visit:
+# https://www.seosiri.com/p/llmstxt.html
