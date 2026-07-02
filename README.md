@@ -4,6 +4,7 @@ Easily deploy a fully RFC 9116-compliant, enterprise-grade vulnerability disclos
 
 Built by [SEOSiri](https://www.seosiri.com) · [MIT License](LICENSE)
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SEOSiri-Official/cloudflare-security-txt)
 ---
 
 ## Why this is necessary
